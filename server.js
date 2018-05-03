@@ -7,7 +7,7 @@ const MongoClient=require("mongodb").MongoClient;
 const ObjectID=require('mongodb').ObjectID;
 var db;
 var path    = require("path");
-var purchase;
+var purchase="page1";
 
 
 
